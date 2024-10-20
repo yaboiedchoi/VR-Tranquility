@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/KoreanHouse.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: efce293af2ac5a74891115f46cfde0f7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2a5190c9b23a4ee4c9eb6fcb1fd8be5d, type: 2}
